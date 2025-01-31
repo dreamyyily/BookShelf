@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/app_k15_11s22017/src/entity/MyBook.java</file>
+            <file>file:/D:/app_k15_11s22017/src/service/MyBookServiceImpl.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/pages/MyBookArchivePage.java</file>
+            <file>file:/D:/app_k15_11s22017/src/repository/MyBookRepository.java</file>
+            <file>file:/D:/app_k15_11s22017/src/util/InputUtil.java</file>
+            <file>file:/D:/app_k15_11s22017/src/util/DB.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/pages/HomePage.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/pages/MyBookPage.java</file>
+            <file>file:/D:/app_k15_11s22017/src/App_Kelompok15.java</file>
+            <file>file:/D:/app_k15_11s22017/src/service/MyBookService.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/AppFrame.java</file>
+            <file>file:/D:/app_k15_11s22017/src/util/ButtonRenderer.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/pages/PagesController.java</file>
+            <file>file:/D:/app_k15_11s22017/src/repository/MyBookRepositoryImpl.java</file>
+            <file>file:/D:/app_k15_11s22017/src/util/ButtonEditor.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/AddMyBook.java</file>
+            <file>file:/D:/app_k15_11s22017/src/ui/DetailMyBook.java</file>
+        </group>
+    </open-files>
+</project-private>
